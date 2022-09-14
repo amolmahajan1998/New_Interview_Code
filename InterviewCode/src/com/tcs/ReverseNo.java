@@ -10,6 +10,10 @@ public class ReverseNo {
 		rev=rev*10+no%10;
 		no=no/10;}
 	System.out.println(rev);
+	System.out.println(rev);
+	System.out.println(rev);
+	System.out.println(rev);
+	System.out.println(rev);
 
 	}
 
