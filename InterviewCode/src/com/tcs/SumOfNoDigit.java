@@ -11,4 +11,8 @@ public class SumOfNoDigit {
 			no=no/10;
 			}
 		System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
 		}}
